@@ -1,6 +1,6 @@
 # garak-assignments
 資財三甲 111AB0057 康真霜
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
